@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "CS5005: The Power of Media: Myth & Reality"
+  author: "Kevin Fo"
+  date: "11/01/2023"
+  chapters:
+    - index.qmd
+    - part: "**PART 1 : LECTURES**"
+      chapters:
+      - intro.qmd
+      - wk2.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

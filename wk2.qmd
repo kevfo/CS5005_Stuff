@@ -1,0 +1,118 @@
+# Scientific Study of Media Research
+
+## Ways of Knowing 
+
+CS5005 outlines three main ways of knowing:
+
+1.  **Experience**
+
+    One possible way to learn more about a subject is to experience it firsthand.
+    
+    Experience is good in that it allows a person to get up close with the topic.  However, it is often messy and may result in different outcomes for different experiences.
+    
+1.  **Authority**
+
+    Which includes scientists, political leaders, religious leaders, community leaders, and elders.
+    
+    Authority is the easiest way of knowing, but authorities may sometimes have vested interests.
+    
+1.  **Science**
+
+    Science combines logic and empiricism with the thought of improving precision via observation.
+    
+## Goals of Science
+
+Science has three main goals:
+
+1.  **Prediction**
+1.  **Explanation**
+1.  **Understanding**
+
+    This refers to knowing how a particular sequence of events might unfold in a given phenomenon.
+    
+## Achieving the Goals of Science
+
+Science is general and assumes that there is one "objective truth". Scientists adopt a skeptical attitude (which often leads to controversy).
+
+Yet, science is unable to answer *all* questions.
+
+## Discovering Effects of Media Content
+
+CS5005 lists three main ways:
+
+### Content Analysis
+
+This is a research technique for objectively, systematically, and quantitatively describing content in communication media.
+
+```{r echo = F, fig.cap = "A Sample Coding Category for a Smoking Study", fig.align = "center"}
+knitr::include_graphics("images/wk2/sample.jpg")
+```
+
+For instance, researchers specify a set of rules for selecting media and "coding" them. A **coder** is a person who classifies content into categories - the system used by the coder is such that any other person who uses the system will also end up with the same result.
+
+### Surveys
+
+There are two main kinds of studies covered in CS5005:
+
+1.  **Cross-Sectional Studies**
+
+    ```{r echo = F, fig.cap = "Cross-Sectional Study Conducted in the Straits Times", fig.align = "center"}
+    knitr::include_graphics("images/wk2/cross.jpg")
+    ```
+
+    These surveys are based on a sample at a single time. Most exploratory and descriptive studies are often cross-sectional.
+
+2.  **Longitudinal Studies**
+
+    These can be broken down into three more kinds of (sub-)studies:
+
+    1.  *Trend Studies*
+
+        ```{r echo = F, fig.cap = "Trend of Mobile Phones over Time", fig.align = "center"}
+        knitr::include_graphics("images/wk2/trend.jpg")
+        ```
+
+        A trend is analyzed.
+
+    2.  *Cohort Studies*
+
+        One follows the same group over time. However, the same people may not be followed up on.
+
+    3.  *Panel Studies*
+
+        ```{r echo = F, fig.cap = "An Example of a Panel Study", fig.align = "center"}
+        knitr::include_graphics("images/wk2/panel.jpg")
+        ```
+
+        This kind of study surveys the same people over time.
+
+### Experiments
+
+To perform an experiment, one identifies their independent and dependent variables (i.e., IVs and DVs).  The IVs are manipulated.
+
+Participants of the study also get randomly assigned to different conditions of the IV.  The results obtained from the IVs should be compared against those with the control group.
+
+#### Criteria for Determining Casual Relationships
+
+There are three main conditions:
+
+1.  **Correlation**
+
+    It must be statistically significant.
+
+2.  **Time order**
+
+    The independent variables of a study *must* come before the dependent variable of a study.
+
+3.  **Non-spurious relationships**
+
+    Spurious relationships can cause weird conclusions. Some examples of spurious relationships can be [found here](https://tylervigen.com/spurious-correlations).
+    
+#### Types of Experiments 
+
+There are three main kinds covered in CS5005:
+
+1.  Pre-test and post-test design
+1.  Pre-test and a post-test with control^[A control is present here - subjects in the control also take the pre-test and post-test survey.]
+1.  Post-test-only design
+

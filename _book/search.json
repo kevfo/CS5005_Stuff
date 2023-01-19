@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CS5005: The Power of Media: Myth & Reality",
+    "section": "",
+    "text": "This is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "wk2.html",
+    "href": "wk2.html",
+    "title": "2  Scientific Study of Media Research",
+    "section": "",
+    "text": "CS5005 outlines three main ways of knowing:\n\nExperience\nOne possible way to learn more about a subject is to experience it firsthand.\nExperience is good in that it allows a person to get up close with the topic. However, it is often messy and may result in different outcomes for different experiences.\nAuthority\nWhich includes scientists, political leaders, religious leaders, community leaders, and elders.\nAuthority is the easiest way of knowing, but authorities may sometimes have vested interests.\nScience\nScience combines logic and empiricism with the thought of improving precision via observation."
+  },
+  {
+    "objectID": "wk2.html#goals-of-science",
+    "href": "wk2.html#goals-of-science",
+    "title": "2  Scientific Study of Media Research",
+    "section": "2.2 Goals of Science",
+    "text": "2.2 Goals of Science\nScience has three main goals:\n\nPrediction\nExplanation\nUnderstanding\nThis refers to knowing how a particular sequence of events might unfold in a given phenomenon."
+  },
+  {
+    "objectID": "wk2.html#achieving-the-goals-of-science",
+    "href": "wk2.html#achieving-the-goals-of-science",
+    "title": "2  Scientific Study of Media Research",
+    "section": "2.3 Achieving the Goals of Science",
+    "text": "2.3 Achieving the Goals of Science\nScience is general and assumes that there is one “objective truth”. Scientists adopt a skeptical attitude (which often leads to controversy).\nYet, science is unable to answer all questions."
+  },
+  {
+    "objectID": "wk2.html#discovering-effects-of-media-content",
+    "href": "wk2.html#discovering-effects-of-media-content",
+    "title": "2  Scientific Study of Media Research",
+    "section": "2.4 Discovering Effects of Media Content",
+    "text": "2.4 Discovering Effects of Media Content\nCS5005 lists three main ways:\n\n2.4.1 Content Analysis\nThis is a research technique for objectively, systematically, and quantitatively describing content in communication media.\n\n\n\n\n\nA Sample Coding Category for a Smoking Study\n\n\n\n\nFor instance, researchers specify a set of rules for selecting media and “coding” them. A coder is a person who classifies content into categories - the system used by the coder is such that any other person who uses the system will also end up with the same result.\n\n\n2.4.2 Surveys\nThere are two main kinds of studies covered in CS5005:\n\nCross-Sectional Studies\n\n\n\n\n\nCross-Sectional Study Conducted in the Straits Times\n\n\n\n\nThese surveys are based on a sample at a single time. Most exploratory and descriptive studies are often cross-sectional.\nLongitudinal Studies\nThese can be broken down into three more kinds of (sub-)studies:\n\nTrend Studies\n\n\n\n\n\nTrend of Mobile Phones over Time\n\n\n\n\nA trend is analyzed.\nCohort Studies\nOne follows the same group over time. However, the same people may not be followed up on.\nPanel Studies\n\n\n\n\n\nAn Example of a Panel Study\n\n\n\n\nThis kind of study surveys the same people over time.\n\n\n\n\n2.4.3 Experiments\nTo perform an experiment, one identifies their independent and dependent variables (i.e., IVs and DVs). The IVs are manipulated.\nParticipants of the study also get randomly assigned to different conditions of the IV. The results obtained from the IVs should be compared against those with the control group.\n\n2.4.3.1 Criteria for Determining Casual Relationships\nThere are three main conditions:\n\nCorrelation\nIt must be statistically significant.\nTime order\nThe independent variables of a study must come before the dependent variable of a study.\nNon-spurious relationships\nSpurious relationships can cause weird conclusions. Some examples of spurious relationships can be found here.\n\n\n\n2.4.3.2 Types of Experiments\nThere are three main kinds covered in CS5005:\n\nPre-test and post-test design\nPre-test and a post-test with control1\nPost-test-only design"
+  }
+]
