@@ -1,2 +1,19 @@
 # Introduction to Media Effects
 
+## Types of Media Effects
+
+```{r echo = F, fig.cap = "Excerpt Taken from the Course's Textbook", fig.align = "center"}
+knitr::include_graphics("images/wk1/effects.jpg")
+```
+
+CS5005 covers the following media effects on...
+
+1.  **A Micro-Level**
+
+    These deal with effects that affect individuals - for instance, arousal when watching shows.
+    
+1.  **A Macro-level**
+
+    These deal with effects that affect large communities.
+    
+
