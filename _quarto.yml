@@ -17,6 +17,7 @@ book:
       - wk7.qmd
       - wk8.qmd
       - wk9.qmd
+      - wk10.qmd
 format:
   html:
     theme: cosmo
