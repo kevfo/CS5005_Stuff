@@ -208,5 +208,26 @@
     "title": "7  Media and the Amplification of Risk",
     "section": "7.3 Infodemiology Frameworks",
     "text": "7.3 Infodemiology Frameworks\nInfodemiology is the study of health information across different channels for the sake of monitoring population health.\nThere are two sources of information:\n\nSupply-Based Data Sources\nThis consists of postings from social media, blogs, discussion boards, websites, or any other sources that “supply” health information to the public.\nDemand Navigation-Based Data\nThis refers to information such as clicks or web searches that indicate the kind of content that people are seeking out.\n\n\n7.3.1 Topic Modelling and Information Asymmetry\nTopic modelling is a kind of unsupervised machine learning that allows researchers to find out which topics that a document discusses.\nInformation asymmetry is a phenomenon that happens when both parties do not have the same access to information\n\n7.3.1.1 Study on Financial Bloggers and Informational Asymmetry\nThis study was done on the basis that financial blogs could close gaps in informational asymmetry.\nThe dependent variable was 90 day return of insider buying while the independent variable was the number of firm-specific blog posts.\nRegression analysis showed that the number of firm-specific blog posts was negatively associated with the 90 day return of insider buying. Consequently, blogs and new media democratize financial returns."
+  },
+  {
+    "objectID": "wk10.html",
+    "href": "wk10.html",
+    "title": "8  New Media Technologies",
+    "section": "",
+    "text": "Some features of technology include:\nOtherwise, some other features include:"
+  },
+  {
+    "objectID": "wk10.html#negative-effects-of-technology",
+    "href": "wk10.html#negative-effects-of-technology",
+    "title": "8  New Media Technologies",
+    "section": "8.1 Negative Effects of Technology",
+    "text": "8.1 Negative Effects of Technology\n\n8.1.1 Carnegie Mellon Study\nThis was a longitudinal study done on 256 individuals across 93 households - each household was given free access to the internet, a free telephone, and a computer. The participants of the study consented to having the researchers track their internet usage.\n\n8.1.1.1 Results\nThe researchers noticed several key results:\n\nInternet usage was associated with a decline in communication with family members.\nThose who used the internet more often reported having fewer people in their social circles.\nInternet users had greater levels of depression and feelings of loneliness when they began the study.\n\nThe results can be explained by the activity displacement effect."
+  },
+  {
+    "objectID": "wk10.html#positive-effects-of-technology",
+    "href": "wk10.html#positive-effects-of-technology",
+    "title": "8  New Media Technologies",
+    "section": "8.2 Positive Effects of Technology",
+    "text": "8.2 Positive Effects of Technology\nCS5005 lists three main points:\n\nSocial Augmentation Hypothesis\nIndividuals who use the internet to communicate with others can expand their social networks.\nSocial Compensation Hypothesis\nThe internet can expand social horizons and lead to a greater sense of connection for individuals who are socially impoverished and have lesser amount of individuals in their social networks.\nSocial Information Processing Theory\nThis states that individuals can still use the available cues to establish intimate relationships that rival those formed in the face-to-face context.\n\nThe media multiplexity theory states that strong relationships are those in which people communicate with one another in multiple ways."
   }
 ]
