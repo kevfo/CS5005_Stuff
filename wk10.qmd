@@ -1,0 +1,63 @@
+# New Media Technologies 
+
+Some features of technology include:
+
+1.  **Interactivity**
+
+    This is the extent to which individuals are able to interact with the said technology in a meaningful way.
+    
+1.  **Structure**
+
+    This is the extent to which a medium is linear or non-linear.
+   
+1.  **Channel**
+
+    This refers to whether or not the information is presented visually, acoustically, or both.
+    
+1.  **Textuality**
+
+    This refers to how much of the information communicated is in text form.
+    
+1.  **Content**
+
+    This refers to the information conveyed by the medium.
+    
+Otherwise, some other features include:
+
+1.  Synchronous vs. asynchronous communication.
+1.  Availability of "big data".
+
+## Negative Effects of Technology
+
+### Carnegie Mellon Study
+
+This was a longitudinal study done on 256 individuals across 93 households - each household was given free access to the internet, a free telephone, and a computer.  The participants of the study consented to having the researchers track their internet usage.
+
+#### Results
+
+The researchers noticed several key results:
+
+1.  Internet usage was associated with a decline in communication with family members.
+1.  Those who used the internet more often reported having fewer people in their social circles.
+1.  Internet users had greater levels of depression and feelings of loneliness when they began the study.
+
+The results can be explained by the activity displacement effect.
+
+
+## Positive Effects of Technology
+
+CS5005 lists three main points:
+
+1.  **Social Augmentation Hypothesis**
+
+    Individuals who use the internet to communicate with others can expand their social networks.
+    
+1.  **Social Compensation Hypothesis**
+
+    The internet can expand social horizons and lead to a greater sense of connection for individuals who are socially impoverished and have lesser amount of individuals in their social networks.
+    
+1.  **Social Information Processing Theory**
+
+    This states that individuals can still use the available cues to establish intimate relationships that rival those formed in the face-to-face context.
+    
+The **media multiplexity theory** states that strong relationships are those in which people communicate with one another in multiple ways.

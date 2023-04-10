@@ -1,0 +1,116 @@
+# History of Media Effects and Time Spent with Media 
+
+Media was traditionally consumed **orally** or in **written** forms.  In other terms, knowledge was transmitted via speech or in writing.
+
+## Mass Communication at Scale
+
+```{r echo = F, fig.cap = "Sketch of the Printing Press", fig.align = "center"}
+knitr::include_graphics("images/wk3/printing.jpg")
+```
+
+Johannes Gutenberg is associated with the invention of the printing press in 1452.  The first book printed was the *Gutenberg bible*.
+
+The press revolutionized communication in ways such as:
+
+1.  Facilitating the spread of knowledge and ideas in a way that was fast and economical.
+1.  Made it easier to access knowledge.
+1.  Starting the idea of "mass communication".
+1.  Accelerating the growth of social movements.
+
+## Key Moments in Media Effects
+
+### Media and War 
+
+```{r echo = F, fig.cap = "The Yellow Kid and the Penny Press", fig.align = "center"}
+knitr::include_graphics("images/wk3/yellow.jpg")
+```
+
+The **penny press** is the ability to mass-produce papers at a low cost.  Penny presses may also involve **yellow journalism**: articles that are sensanationalistic for the sake of increasing readership or sales.
+
+```{r echo = F, fig.cap = "The Yellow Kid and the Penny Press", fig.align = "center"}
+knitr::include_graphics("images/wk3/war.jpg")
+```
+
+Media can also be used as a platform to sell *anything* - including war (i.e., see above propaganda).
+
+#### Experiments on Movies on World War 2
+
+The American government noticed that the Germans were effectively using wartime scenarios in films - consequently, the government called upon Hollywood for its war efforts.
+
+```{r echo = F, fig.cap = "Frank Capra's *Why we Fight* Series", fig.align = "center"}
+knitr::include_graphics("images/wk3/fight.jpg")
+```
+
+Frank Capra was called upon to make a film series titled *Why we Fight*.  This series was shown to the public (particularly military members) to boost their morales and influence their public attitudes.
+
+The American government also commissioned a team of researchers to find out how effective Capra's films were in influencing public opinion - they found out the following:
+
+1.  There were no profound effects.
+1.  There was evidence that there was a motivational change in soldiers.
+1.  Perhaps it could be due to a "ceiling effect"?
+
+#### Payne Fund Studies
+
+In 1928, there were concerns over the effects that movies had on children.
+
+Hence, Edgar Dale studied 1500 films' contents and classified them.  His work showed that more than 75% of the films he analyzed could be put into one of three categories: crime, love, and sex.
+
+His findings were as follows:
+
+1.  **Physiological Responses**
+
+    The children showed no physiological responses^[For instance, galvanic skin responses (i.e., sweat)], but adolescents showed increase physiological responses.
+    
+1.  **Behavioral Responses**
+
+    Herbert Blumer administered questionnaires and interviews with children, adolescents, and young adults.
+    
+    From this, the **theory of social learning** was developed: children are likelier to imitate characters who are rewarded for their behaviors and are seen as "attractive".
+    
+## Media Effect Theories
+
+CS5005 covers the following theories:
+
+1.  **Hypodermic Needle** (of mass communication)
+
+    This is also known as the *magic bullet model*.  This theory states that media is a powerful catalyst for change and influence.
+    
+    All media are powerful and people are vulnerable to their effects.
+
+1.  **Two-Step Flow of Communication**
+
+    ```{r echo = F, fig.cap = "Diagrammatic Illustration of Two-Step Flow", fig.align = "center"}
+    knitr::include_graphics("images/wk3/media.jpg")
+    ```
+    
+    This theory states that media's effects are limited to a few people (i.e., people who have authority or opinion people) who in turn will influence others via interpersonal communications.
+    
+1.  **Selective Exposure to Communication**
+
+    This thoery states that people are motivated to expose themselves to messages that they agree with while avoiding messages that they don't agree with.
+    
+Note that media theories 2. and 3. are what as known as **limited effects models (or theories)**: theories or models that state that media effects are small to negligible.  
+
+## Media Use and Gratifications
+
+Individuals can use media for a variety of reasons, including but not limited to:
+
+1.  Learning
+1.  Habitual usage
+1.  Companionship (e.g., parasocial^[This is when a person develops a relationship with a TV character.] relationships)
+1.  Arousal (e.g., sensation seeking)
+1.  Relaxation escapes
+1.  Passing time
+1.  Social interactions
+
+## Media as the Boogeyman
+
+The **displacement hypothesis** states that media can displace the following:
+
+1.  **Important Activities**
+
+    Including sleep, relationships, and academic learning or work.
+    
+1.  **Public Health Problems**
+
+    Including obesity, mental health issues, and body image dissatisfaction.

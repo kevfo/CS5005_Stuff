@@ -12,7 +12,11 @@ book:
       chapters:
       - intro.qmd
       - wk2.qmd
-
+      - wk34.qmd
+      - wk6.qmd
+      - wk7.qmd
+      - wk8.qmd
+      - wk9.qmd
 format:
   html:
     theme: cosmo

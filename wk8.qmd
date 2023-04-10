@@ -1,0 +1,98 @@
+# Imapct of News Media
+
+Journalists have numerous responsibilities - for instance:
+
+1.  Informing the public on matters and topics
+1.  Educating the public on and raising awareness on a certain topic
+1.  Nation building 
+1.  Acting as a watchman
+
+Furthermore, journalists are also influenced by external parties - for instance, the government, their managers (i.e., bosses), their family, their finances, advertises, and political figures to name a few!
+
+## Filters of Mass Media
+
+According to the book *Manufacturing Consent*, there are five filters of mass media:
+
+1.  Media ownership
+1.  Advertising money (i.e., paying for the audience as a product)
+1.  Media elites (i.e., ensuring complicity)
+1.  Flack
+1.  Common enemy
+
+## Why Consume News?
+
+```{r echo = F, fig.cap = "The Cognitive Mediation Model", fig.align = "center"}
+knitr::include_graphics("images/wk8/cognitive.jpg")
+```
+
+The above diagram lists several terms suggesting why it is that individuals consume news media:
+
+1.  **Surveillance Gratification**
+
+    Individuals have a tendency to use news media as a way of gaining information about their social environments.
+    
+1.  **Anticipated Interactions**
+
+    Individuals use social media as a way of finding social resources for future conversations with others.
+    
+1.  **Guidance**
+
+    Individuals may use news media as a gauge for how they should behave and feel (about a certain topic).
+    
+1.  **Need for Cognition**
+
+    This is a need to understand and find meaning in an experimental world.
+    
+1.  **Risk Perception**
+
+    This refers to how seriously perceive a problem.
+    
+### Passive Consumption
+
+There are two general ways that individuals can passively consume news:
+
+1.  **Incidental Exposure**
+
+    Individuals are coincidentally exposed to news media in spite of them not searching for it.
+    
+1.  **"News-find-me" Phenomenon**
+
+    This is the belief that important news will eventually find its way to the individual.
+    
+### Agenda Setting Theory 
+
+This is the belief that although the press may not be able to tell what to think, it can still tell you what *to think about*.
+
+## Message Framing
+
+> Framing has theoretical roots in prospect theory, which states that presenting the same information about risk in different ways alters people’s perspectives, preferences and actions
+>
+> -- Kahneman & Tversky, 1979
+
+**Message framing** is an idea that utilizes emphasis, exclusion, elaboration, and selection to deliver content.
+
+```{r echo = F, fig.cap = "Examples of Gain-Framed and Loss-Framed Messages", fig.align = "center"}
+knitr::include_graphics("images/wk8/framing.jpg")
+```
+
+People are generally risk-averse when it comes time to face losses and vice vesa.
+
+## Spiral of Silence
+
+```{r echo = F, fig.cap = "Spiral of Silence Illustration", fig.align = "center"}
+knitr::include_graphics("images/wk8/silence.jpg")
+```
+
+The **spiral of silence** states that individuals do not feel comfortable speaking out for themselves if they feel that they are in the minority.
+
+The above is due to the fear of isolation.
+
+### Some Assumptions
+
+There are five general assumptions behind this theory:
+
+1.  Individuals' opinions are distributed according to some distribution.
+1.  One's willingness to expose their own views varies according to their expression in 1.
+1.  There is a positive correlation between present and future assessments.
+1.  If there is a divergence, how the individual expects things to unfold will determine whether or not they will speak out.
+

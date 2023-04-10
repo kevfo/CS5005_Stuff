@@ -1,0 +1,136 @@
+# Persuasion
+
+This week's lecture discusses various aspects of persuasion.
+
+## Three Dimensions of Persuasion
+
+The three dimensions are:
+
+1.  Change in Attitude
+1.  Change in Behavior
+1.  Persistent Change
+
+## Weapons of Influence
+
+The assigned reading lists several:
+
+1.  **Reciprocity**
+
+    If somebody does something for you, you will typically feel the need to reciprocate and do something in return.
+    
+1.  **Commitment and Consistency**
+
+    People strive for consistency in their behaviors, and this desire can sometimes be used against the person.
+    
+1.  **Social Proof**
+
+    When one is unsure how to act, they look to others around them for guidance.
+    
+1.  **Authority**
+
+    People tend to respond more readily to individuals who they view as authority figures.
+    
+1.  **Scarcity**
+
+    People tend to go after items that appear to be high demand.
+
+### Elaboration Likelihood Model (i.e., ELM)
+
+This model states that individuals are motivated by two routes:
+
+1.  **Central Route to Persuasion**
+
+    This is the highly cognitive route to persuasion (i.e., the route that uses facts and logic).
+    
+    This route kicks in when the message shown is counter-attudinal.
+    
+1.  **Peripheral Route Persuasion**
+
+    Certain cues in the message being shown lead people to accept the proposition with very little thought or scrutiny (e.g., emotional appeals, source credibilities, etc).
+    
+## Cultivation Theory
+
+Social media presents a view of social reality.
+
+**First order cultivation** is a process whereby heavy viewers believe that the real world is like the TV world.
+
+**Second order cultivation** is a result of viewers adopting a particular attitude as a result of their media exposures.
+
+### Mechanisms of Social Theory
+
+**Mainstreaming** refers to the idea that differences across people's perceptions and / or attitudes across groups would be minimized as they are cultivated by the same media messages.
+
+**Resonance** occurs when a person's real life environment strongly resembles environments depicted in media.
+
+Some other theories include:
+
+1.  **Accessibility Principle**
+
+    Information that comes first to somebody's mind.
+    
+1.  **Drench Hypothesis**
+    
+    Critical images overwhelm stereotypical ones that appear regularly.
+    
+1.  **Drip-drip-drip Hypothesis**
+    
+    These refer to effects that emerge after steady, long-term exposure.
+    
+In a study conducted by Doob and MacDonald, participants were examined for TV exposure and for their fear of criminal victimization in Toronto.  The researchers found that heavy media viewers feared being victims of crime, while people living crime-ridden neighborhoods stayed home and watched more TV.
+    
+### Criticisms of Cultivation Theory
+
+No conclusive testing has been done on this theory; most research has only found effects in the short term (i.e., not the long term).
+
+### Landscape Theorem
+
+> "When people watch a movie, their primary focus is on comprehending the story. What viewers cognitively do with different information in a movie — including brand placements — depends on the implications of the information for comprehending the movie."
+>
+> -- Yang & Roskos-Ewoldsen 
+
+There are two kinds:
+
+1.  **Explicit Memory**
+
+    In other terms, recall the brand.
+    
+1.  **Implicit Memory**
+
+    Respondents were asked to fill in the blanks after showing them word fragments.
+    
+In the study conducted by Yang & Roskos-Ewoldsen, 375 participants were assigned to any of the three conditions:
+
+1.  Product brands appeared in the background in an incidental way.
+1.  The product was used by the main character.
+1.  The product was centrally connected to the main story.
+
+The highest level of recognition was observed when the product was tied in with the main story (e.g., Transformers).  
+
+Participants who saw the main character using the brand were lower on recognition as opposed to the third condition.  However, it was still higher than the first condition.
+
+## Prospect Theory
+
+Some key assumptions of this theory include:
+
+1.  People want to avoid losses and not gains (i.e., people are loss-averse).
+1.  People are risk averse when facing gains, but risk-seeking when faced with losses.
+
+### Message Framing
+
+```{r echo = F, fig.cap = "An Example of a Gain and Loss-Framed Message", fig.align = "center"}
+knitr::include_graphics("images/wk6/frame.jpg")
+```
+
+When individuals consider a behavior that involves some risk of an unwanted outcome (e.g., a health problem), *loss-framed* appeals tend to be more appealing.
+
+> "Framing has theoretical roots in prospect theory, which states that presenting the sameinformation about risk in different ways alters people’s perspectives, preferences and actions."
+>
+> -- Kahneman & Tversky, 1979
+
+However, when individuals consider an activity with a low-risk of an unwanted outcome, *gain-framed* appeals tend to be more effective.
+
+### Third Person Effect
+
+This is the belief that media influence is stronger for others than it is for the individual.
+
+    

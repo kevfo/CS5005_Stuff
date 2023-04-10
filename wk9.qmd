@@ -1,0 +1,93 @@
+# Media and the Amplification of Risk
+
+Social activities often magnify the risks of events.
+
+## Technical Assessments of Risk
+
+Some scholars have criticized the technical aspects of assessing risks:
+
+1.  **Narrow Definitions**
+
+    In other terms, people have a "comprehensive conception of risk".
+    
+1.  **Heuristics and Biases**
+
+    Underlying cognitive patterns may influence how people perceive risks.
+    
+1.  **Other Issues Not Covered by Risk Assessments**
+    
+    For instance, equity, circumstances, and the timeliness of management responses.
+    
+1.  **Risk Impacts**
+
+    Sometimes, the impact of risks may go beyond direct impacts (e.g., liabilities, insurance costs, loss of consumer trust in corporations, etc).
+    
+## Risk Amplification
+
+```{r echo = F, fig.cap = "Examples of Signals During Information Trnasfer", fig.align = "center"}
+knitr::include_graphics("images/wk9/signal.jpg")
+```
+
+**Risk amplification** is the intensifying or the attenuating of signals during information sharing from an information source through intermediary sources and finally, the receiver.
+
+### Social Amplification of Risks
+
+```{r echo = F, fig.cap = "Original Model for Social Amplification of Risks", fig.align = "center"}
+knitr::include_graphics("images/wk9/socialrisks.jpg")
+```
+
+**Social amplification of risk** is when institutional structures, social circles, and individual responses shape the perceived intensities of risks, hence contributing to consequences.
+
+#### Social Amplification Stations
+
+Stations generate and transmit information via communications channels (e.g., media, letters, telephones, etc).
+
+### Perspectives on Social Amplification of Risks
+
+**Misinformation** refers to false or inaccurate information, while **disinformation** is misinformation with malicious intent.
+
+There are numerous perspectives explored in CS5005:
+
+1.  Social media platforms should be blamed for amplifying risks.
+1.  Social media is a bogeyman or a convenient scapegoat.
+
+Social media can also be used to understand the amplification of risks in the right way.
+
+## Infodemiology Frameworks
+
+**Infodemiology** is the study of health information across different channels for the sake of monitoring population health.
+
+There are two sources of information:
+
+1.  **Supply-Based Data Sources**
+
+    This consists of postings from social media, blogs, discussion boards, websites, or any other sources that "supply" health information to the public.
+    
+1.  **Demand Navigation-Based Data**
+
+    This refers to information such as clicks or web searches that indicate the kind of content that people are seeking out.
+    
+### Topic Modelling and Information Asymmetry
+
+**Topic modelling** is a kind of unsupervised machine learning that allows researchers to find out which topics that a document discusses.
+
+**Information asymmetry** is a phenomenon that happens when both parties do not have the same access to information
+
+#### Study on Financial Bloggers and Informational Asymmetry
+
+This study was done on the basis that financial blogs could close gaps in informational asymmetry.
+
+The dependent variable was 90 day return of insider buying while the independent variable was the number of firm-specific blog posts.
+
+Regression analysis showed that the number of firm-specific blog posts was negatively associated with the 90 day return of insider buying.  Consequently, blogs and new media democratize financial returns.
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
